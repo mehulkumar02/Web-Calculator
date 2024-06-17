@@ -20,5 +20,5 @@ Welcome to the Web Calculator project! This is a simple, yet efficient web-based
 - Contact:-
 If you have any questions or feedback, please feel free to reach out:
 
-✉️ Email: mehulkumar.mk02@gmail.com
-🐦 GitHub: mehulkumar02
+- ✉️ Email: mehulkumar.mk02@gmail.com
+- 🐦 GitHub: mehulkumar02

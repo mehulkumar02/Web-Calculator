@@ -1,3 +1,5 @@
+#Web Calculator
+
 Welcome to the Web Calculator project! This is a simple, yet efficient web-based calculator built using HTML, CSS, and JavaScript. It provides basic arithmetic operations and a user-friendly interface, making it easy to perform quick calculations directly in your web browser.
 
 Features
